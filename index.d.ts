@@ -1,4 +1,4 @@
-declare module './request-validator' {
+declare module '@i4nizer/request-validator' {
     interface Field {
         name: string;
         min?: number;

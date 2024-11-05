@@ -1,6 +1,6 @@
 {
   "name": "@i4nizer/request-validator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A custom validation module for handling required fields, string, and number validations.",
   "main": "index.js",
   "types": "index.d.ts",

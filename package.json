@@ -1,5 +1,5 @@
 {
-  "name": "request-validator",
+  "name": "@i4nizer/request-validator",
   "version": "1.0.0",
   "description": "A custom validation module for handling required fields, string, and number validations.",
   "main": "lib/requestModule.js",
@@ -8,10 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/i4nizer/request-validator.git"
+    "url": "git+https://github.com/i4nizer/request-validator.git"
   },
-  "keywords": ["validation", "request", "middleware", "express", "custom-validator"],
-  "author": "Your Name",
+  "keywords": [
+    "validation",
+    "request",
+    "middleware",
+    "express",
+    "request-validator"
+  ],
+  "author": "i4nizer",
   "license": "MIT",
   "dependencies": {}
 }
